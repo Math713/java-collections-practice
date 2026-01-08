@@ -2,7 +2,7 @@ import java.util.HashSet;
 import java.util.Scanner;
 import java.util.Set;
 
-public class Exercise{
+public class PresenceControl {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
         Set<String> hashSet = new HashSet<>();
